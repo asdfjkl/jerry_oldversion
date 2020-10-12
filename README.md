@@ -1,8 +1,8 @@
 # Jerry - Das Schachprogramm
 
-This contains legacy versions (version 3.0 and prior) of Jerry. The current version is available 
+This contains legacy versions (version 3.0 and prior) of Jerry. 
 
-[HERE](https://github.com/asdfjkl/jerry)
+The latest version is available [HERE](https://github.com/asdfjkl/jerry)
 
 ## About
 Jerry is a cross-platform chess graphical user interface.
